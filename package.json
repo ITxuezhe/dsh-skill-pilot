@@ -40,11 +40,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/itxuezhe/dsh-skill-pilot"
+    "url": "https://github.com/ITxuezhe/dsh-skill-pilot"
   },
-  "homepage": "https://github.com/itxuezhe/dsh-skill-pilot#readme",
+  "homepage": "https://github.com/ITxuezhe/dsh-skill-pilot#readme",
   "bugs": {
-    "url": "https://github.com/itxuezhe/dsh-skill-pilot/issues"
+    "url": "https://github.com/ITxuezhe/dsh-skill-pilot/issues"
   },
   "exports": {
     ".": "./lib/index.js",
