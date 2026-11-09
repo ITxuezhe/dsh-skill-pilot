@@ -1,0 +1,5 @@
+# bundle patch for dsh-skill-pilot: inserts the plugin row into the web
+# profile roster. Disable with the profile patch layer (id: skill-pilot).
+- insert:
+    - id: skill-pilot
+      name: dsh-skill-pilot
